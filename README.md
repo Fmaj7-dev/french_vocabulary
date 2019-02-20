@@ -1,2 +1,2 @@
 # french_vocabulary
-Plan text of csv vocabulary and sql generators
+Plain text of csv vocabulary and sql generators
