@@ -80,7 +80,7 @@ avoir froid (e) /fʀwa, fʀwad/#tener frío
 avoir chaud /ʃo, ʃod/#tener calor
 avoir faim /fɛ̃/#tener hambre
 avoir soif /swaf/#tener sed
-avoir sommeil /sɔmɛj/#sueño
+avoir sommeil /sɔmɛj/#tener sueño
 avoir besoin de /bəzwɛ̃/#tener necesidad, necesitar
 avoir peur /pœʀ/#tener miedo
 avoir envie /ɑ̃vi/#tener envidia
@@ -165,7 +165,7 @@ questionnaire /kɛstjɔnɛʀ/#cuestionario
 profil /pʀɔfil/#perfil
 avis /avi/#opinión
 conseil /kɔ̃sɛj/#consejo
-célibataire#/selibatɛʀ/#soltero
+célibataire /selibatɛʀ/#soltero
 stage /staʒ/#prácticas
 patient /pasjɑ̃, jɑ̃t/#paciente
 campagne /kɑ̃paɲ/#campo
@@ -192,7 +192,7 @@ maintenant /mɛ̃t(ə)nɑ̃/#hoy en dia
 heureusement /øʀøzmɑ̃/#afortunadamente
 BD /bede/#teveo (bande dessinée)
 métier /metje/#profesión
-surprenant(e) /syʀpʀənɑ̃, ɑ̃t/#sorprendentemente
+surprenant(e) /syʀpʀənɑ̃, ɑ̃t/#sorprendente
 inconnu(e) /ɛ̃kɔny/#desconocido
 séjour /seʒuʀ/#cuarto de estar, temporada, destino
 là-bas /laba/#allá
@@ -315,7 +315,6 @@ la tente /tɑ̃t/#tienda de campaña
 l’auberge de jeunesse /obɛʀʒ/ /ʒœnɛs/#alberge juvenil
 hébergement /ebɛʀʒəmɑ̃/#alojamiento
 arrondissement /aʀɔ̃dismɑ̃/#distrito
-
 endroit	/ɑ̃dʀwa/#sitio, lugar, parte de arriba
 locataire /lɔkatɛʀ/#inquilino, arrendatario (ambas!)
 dessous	/d(ə)su/#debajo
@@ -387,3 +386,164 @@ suite /sɥit/#desarrollo, secuela, fruto…
 tout de suite#ya, inmediatamente
 plein /plɛ̃, plɛn/#lleno
 montre /mɔ̃tʀ/#reloj
+fils /fis#hijo
+fille /fij/#hija, niña
+mauvais /mɔvɛ, ɛz/#incorrecto, malo
+cependant /s(ə)pɑ̃dɑ̃/#sin embargo
+tantôt#a veces… a veces
+poche /pɔʃ/#bolsillo
+peu /pø/#poco
+monde /mɔ̃d/#mundo
+enfant /ɑ̃fɑ̃/#niño, niña
+mieux /mjø/#mejor, más bien
+peur /pœʀ/#miedo
+raison /ʀɛzɔ̃/#razón, cordura
+jeune /ʒœn/#joven
+jaune /ʒon/#amarillo
+terre /tɛʀ/#tierra, suelo
+longtemps /lɔ̃tɑ̃/#mucho tiempo
+gars /gɑ/#muchacho, chico (garçon)
+cas /kɑ/#caso
+mari /maʀi/#marido, esposo
+épouse /epuz/#mujer, esposa
+chéri, e  /ʃeʀi/#querido, querida  
+celui /səlɥi, sɛl/#el, la, aquel, quien
+aucun, e  /ok̃œ, yn/#ninguno 
+pauvre /povʀ/#pobre
+feu /fø/#fuego, lumbre
+genre /ʒɑ̃ʀ/#género, estilo
+arme /aʀm/#arma
+ceux (pluriel de celui) /sø/#los, aquellos 
+partie /paʀti/#parte, porción
+dur, e /dyʀ/#duro
+plaisir /pleziʀ/#placer
+soeur#hermana
+tellement /tɛlmɑ̃/#tanto
+con, ne /kɔ̃, kɔn/#estúpido, idiota  
+roi /ʀwa/#rey
+reine /ʀɛn/#reina
+faute /fot/#falta, error
+dessus /d(ə)sy/#parte superior, arriba
+sinon /sinɔ̃/#si no, de lo contrario
+idiot, e /idjo, idjɔt/#idiota  
+propre /pʀɔpʀ/#limpio, aseado
+bas, se /bɑ, bɑs/#bajo, en la parte de abajo  
+donnée#dato, información
+puissance /pɥisɑ̃s/#potencia, fuerza
+partenaire /paʀtənɛʀ/#compañero
+canapé  /kanape/#sofá
+clavier /klavje/#teclado
+soudain, e  /sudɛ̃, ɛn/#repentino, de repente
+énervé,e  /enɛʀve/#irritado, molesto
+le pire /piʀ/#lo peor
+bourse  /buʀs/#bolsa, beca
+sûr /syʀ/#seguro, convencido
+panne /pan/#avería
+génie /ʒeni/#genio
+puisque /pɥisk/#ya que
+zut /zyt/#caray
+débrouille-toi#apáñatelas tú
+dehors  /dəɔʀ/#fuera
+vieux, vieille  /vjø, vjɛj/#viejo, vieja
+côté  /kote/#costado
+scénario  /senaʀjo/#guión, argumento
+sûrement  /syʀmɑ̃/#seguramente
+grave /gʀav/#serio, importante
+entier, entière /ɑ̃tje, jɛʀ/#entero
+du calme#tranquilizate
+urgent, e /yʀʒɑ̃, ɑ̃t/#urgente
+auteur, e /otœʀ/#autor, autora
+désagréable /dezagʀeabl/#desagradable
+réglage /ʀeglaʒ/#ajuste, configuración
+étonnant, e /etɔnɑ̃, ɑ̃t/#sorprendente
+partout /paʀtu/#en todas partes
+bonheur /bɔnœʀ/#alegría, felicidad
+malade  /malad/#enfermo 
+place /plas/#sitio, plaza
+bâtiment  /bɑtimɑ̃/#edificio, navío 
+piéton, ne  /pjetɔn, je/#peatón
+succès  /syksɛ/#éxito
+fleuve  /flœv/#río
+rivière /ʀivjɛʀ/#río
+quai  /ke/#andén, muelle 
+autrefois /otʀəfwa/#en otro tiempo
+en ce moment#en la actualidad
+À cette époque-là#en aquella época
+Dans le temps#en otro tiempo
+de nos jours#hoy en día
+neveu /n(ə)vø/#sobrino
+nièce /njɛs/#sobrina
+récit /ʀesi/#relato
+consommation /kɔ̃sɔmasjɔ̃/#consumo, consumación  
+internaute  /ɛ̃tɛʀnot/#internauta  
+d’après#Según (selon)
+parmi /paʀmi/#entre
+entraînement /ɑ̃tʀɛnmɑ̃/#entrenamiento 
+reconnaissance /ʀ(ə)kɔnɛsɑ̃s/#reconocimiento
+congé /kɔ̃ʒe/#vacaciones, baja
+soin  /swɛ̃/#tratamiento, cuidado (belleza)
+taux  /to/#tasa, indice
+chômage /ʃomaʒ/#paro, desempleo 
+presque /pʀɛsk/#casi
+rassemblement /ʀasɑ̃bləmɑ̃/#agrupación  
+grève /gʀɛv/#huelga, paro
+déchet  /deʃɛ/#desechos, basura
+poste /pɔst/#puesto (de trabajo), correo
+fil /fil/#hilo
+loi /lwa/#ley
+mesure  /m(ə)zyʀ/#medida
+renseignement /ʀɑ̃sɛɲmɑ̃/#información 
+santé /sɑ̃te/#salud
+bienfait  /bjɛ̃fɛ/#beneficio
+sédentaire  /sedɑ̃tɛʀ/#sedentario  
+pourtant  /puʀtɑ̃/#sin embargo 
+aviron  /aviʀɔ̃/#remo
+natation  /natasjɔ̃/#natación
+muscle  /myskl/#músculo
+ventre  /vɑ̃tʀ/#estómago, barriga
+bras  /bʀɑ/#brazo
+jambe /ʒɑ̃b/#pierna
+jambon  /ʒɑ̃bɔ̃/#jamón
+cuisse  /kɥis/#muslo
+mollet  /mɔlɛ/#pantorrilla, tierno 
+haut, e /ˈo, ˈot/#alto, alta
+épaule  /epol/#hombro
+poignet /pwaɲɛ/#muñeca
+coeur#corazón
+dos /do/#espalda
+poids /pwɑ/#peso
+pas /pɑ/#paso
+pied  /pje/#pie
+genou /ʒ(ə)nu/#rodilla
+cul /ky/#culo
+fesse /fɛs/#nalga, glúteo
+poitrine  /pwatʀin/#pecho
+oreille /ɔʀɛj/#oreja
+nez /ne/#nariz
+pommette /pɔmɛt/#pómulo
+nuque /nyk/#nuca
+front /fʀɔ̃/#frente
+menton  /mɑ̃tɔ̃/#barbilla
+coude /kud/#codo
+doigt /dwa/#dedo
+bien sûr#por supuesto
+leader  /lidœʀ/#lider
+courant, e  /kuʀɑ̃, ɑ̃t/#corriente, habitual
+concurrent, e /kɔ̃kyʀɑ̃, ɑ̃t/#competidor  
+trottoir  /tʀɔtwaʀ/#acera
+micro-trottoir#encuesta de calle
+ennuyeux, yeuse /ɑ̃nɥijø, øz/#aburrido  
+pollué#contaminado
+retour /ʀ(ə)tuʀ/#regreso
+commande  /kɔmɑ̃d/#pedido
+bougie  /buʒi/#vela
+cadre /kɑdʀ/#marco, entorno
+tiroir  /tiʀwaʀ/#cajón
+bulle /byl/#burbuja, pompa
+proche  /pʀɔʃ/#próximo, cercano
+salle de bain#cuarto de baño
+cadeau  /kado/#regalo
+tremblement /tʀɑ̃bləmɑ̃/#temblor
+même  /mɛm/#incluso
+soupçon /supsɔ̃/#sospecha
+blessé  /blese/#herido, lesionado
