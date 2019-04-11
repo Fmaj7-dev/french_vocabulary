@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# insert verbs from the old database into the new one
+
 import sys
 import codecs
 import mysql.connector

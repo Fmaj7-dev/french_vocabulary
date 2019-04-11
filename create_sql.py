@@ -1,5 +1,7 @@
 #!/usr/bin/python2.7
 
+# inserts words into the old database
+
 import sys
 import codecs
 
